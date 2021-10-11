@@ -1,4 +1,5 @@
 #Nanodegree: DevOps Engineering Nanodegree
+
 #Task:       Project 2 Deploying a high availability web app using cloudformation
 
 I am Emmanuel Odenyire, a BIT Udacity Scholar taking Cloud DevOps Engineering Nanodegree.
